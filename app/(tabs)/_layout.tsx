@@ -5,6 +5,7 @@ export default function TabLayout() {
     <Tabs>
      <Tabs.Screen name="index" />
      <Tabs.Screen name="profile" />
+     <Tabs.Screen name="gallery" />
     </Tabs>
   );
 }
